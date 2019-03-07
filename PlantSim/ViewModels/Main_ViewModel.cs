@@ -42,6 +42,14 @@ namespace PlantSim.ViewModels
 
         #region View Model Properties
 
+        public IOView_ViewModel IOView_VM
+        {
+            get
+            {
+                return ServiceLocator.Current.GetInstance<IOView_ViewModel>();
+            }
+        }
+
         public Random_ViewModel Random_VM
         {
             get

@@ -74,7 +74,11 @@
 				</TabItem>
 			 -->
 			<TabControl>
-				<TabItem Header="Random Helper">
+                <TabItem Header="IO View">
+                    <ContentControl Content="{Binding IOView_VM}"  />
+                </TabItem>
+
+                <TabItem Header="Random Helper">
 					<ContentControl Content="{Binding Random_VM}"  />
 				</TabItem>
 			

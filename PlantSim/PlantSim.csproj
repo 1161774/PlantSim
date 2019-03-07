@@ -88,6 +88,7 @@
     <Compile Include="Models\Person.cs" />
     <Compile Include="Properties\Annotations.cs" />
     <Compile Include="ViewModels\About_ViewModel.cs" />
+    <Compile Include="ViewModels\IOView_ViewModel.cs" />
     <Compile Include="ViewModels\Main_ViewModel.cs" />
     <Compile Include="ViewModels\MvvmLight_ViewModel.cs" />
     <Compile Include="ViewModels\MyBase_ViewModel.cs" />
@@ -96,6 +97,9 @@
     <Compile Include="ViewModels\ViewModelLocator.cs" />
     <Compile Include="Views\About_View.xaml.cs">
       <DependentUpon>About_View.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\IOView_View.xaml.cs">
+      <DependentUpon>IOView_View.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\MvvmLight_View.xaml.cs">
       <DependentUpon>MvvmLight_View.xaml</DependentUpon>
@@ -117,6 +121,10 @@
     <Page Include="Views\About_View.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\IOView_View.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="Views\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>

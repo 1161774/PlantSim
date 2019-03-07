@@ -43,6 +43,7 @@ namespace PlantSim.ViewModels
            
             SimpleIoc.Default.Register<Main_ViewModel>                 () ;
             SimpleIoc.Default.Register<MvvmLight_ViewModel>            () ;
+            SimpleIoc.Default.Register<IOView_ViewModel>();
             SimpleIoc.Default.Register<Random_ViewModel>               () ;
             SimpleIoc.Default.Register<About_ViewModel>                () ;
             SimpleIoc.Default.Register<ValidationsConvertes_ViewModel> () ;
@@ -62,6 +63,14 @@ namespace PlantSim.ViewModels
             }
         }
 
+
+        public IOView_ViewModel IOView_VM
+        {
+            get
+            {
+                return ServiceLocator.Current.GetInstance<IOView_ViewModel>();
+            }
+        }
 
         public Random_ViewModel Random_VM
         {

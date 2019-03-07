@@ -14,11 +14,15 @@
 		<views:About_View />
 	</DataTemplate>
 
-	<DataTemplate DataType="{x:Type vm:Random_ViewModel}">
-		<views:Random_View></views:Random_View>
+	<DataTemplate DataType="{x:Type vm:IOView_ViewModel}">
+		<views:IOView_View></views:IOView_View>
 	</DataTemplate>
-	
-	<DataTemplate DataType="{x:Type vm:MvvmLight_ViewModel}">
+
+    <DataTemplate DataType="{x:Type vm:Random_ViewModel}">
+        <views:Random_View></views:Random_View>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:MvvmLight_ViewModel}">
 		<views:MvvmLight_View/>
 	</DataTemplate>
 
