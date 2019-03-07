@@ -6,10 +6,10 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Media;
-using MVVM_Template_Project.Auxiliary.Helpers;
-using MVVM_Template_Project.Properties;
+using PlantSim.Auxiliary.Helpers;
+using PlantSim.Properties;
 
-namespace MVVM_Template_Project.Models
+namespace PlantSim.Models
 {
     public class Person
     {

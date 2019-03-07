@@ -1,4 +1,4 @@
-﻿namespace MVVM_Template_Project.ViewModels
+﻿namespace PlantSim.ViewModels
 {
 	public class About_ViewModel : MyBase_ViewModel
 	{

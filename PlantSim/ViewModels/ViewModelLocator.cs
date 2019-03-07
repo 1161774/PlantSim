@@ -1,7 +1,7 @@
 ﻿/*
   In App.xaml:
   <Application.Resources>
-      <vm:ViewModelLocatorTemplate xmlns:vm="clr-namespace:MVVM_Template_Project.ViewModels"
+      <vm:ViewModelLocatorTemplate xmlns:vm="clr-namespace:PlantSim.ViewModels"
                                    x:Key="Locator" />
   </Application.Resources>
   
@@ -14,9 +14,9 @@ using GalaSoft.MvvmLight;
 //using Microsoft.Practices.ServiceLocation;
 using GalaSoft.MvvmLight.Ioc;
 using Microsoft.Practices.ServiceLocation;
-using MVVM_Template_Project.Models;
+using PlantSim.Models;
 
-namespace MVVM_Template_Project.ViewModels
+namespace PlantSim.ViewModels
 {
     /// <summary>
     /// This class contains static references to all the view models in the

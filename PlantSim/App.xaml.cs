@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using GalaSoft.MvvmLight.Threading;
 
-namespace MVVM_Template_Project
+namespace PlantSim
 {
     /// <summary>
     /// Interaction logic for App.xaml

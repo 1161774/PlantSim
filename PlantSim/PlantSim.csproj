@@ -8,7 +8,7 @@
     <ProjectGuid>{0D83B556-00B5-45F7-82C2-4F4DC49DF4BE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MVVM_Template_Project</RootNamespace>
+    <RootNamespace>PlantSim</RootNamespace>
     <AssemblyName>PlantSim</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>

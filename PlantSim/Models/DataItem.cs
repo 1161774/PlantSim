@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace MVVM_Template_Project.Models
+namespace PlantSim.Models
 {
     /// <summary>
     /// This is the default MVVM Light DataItem. It's a simlpe class that holds a string and

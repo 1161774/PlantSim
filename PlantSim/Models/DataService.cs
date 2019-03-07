@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.ObjectModel;
-using MVVM_Template_Project.Auxiliary.Helpers;
+using PlantSim.Auxiliary.Helpers;
 
-namespace MVVM_Template_Project.Models
+namespace PlantSim.Models
 {
     public class DataService : IDataService
     {

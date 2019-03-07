@@ -1,4 +1,4 @@
-﻿namespace MVVM_Template_Project.Auxiliary.Helpers
+﻿namespace PlantSim.Auxiliary.Helpers
 {
 	/*
 	 * Put your enumrations here ... go wild ... 

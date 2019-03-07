@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Windows.Data;
 using System.Globalization;
-using MVVM_Template_Project.Auxiliary.Helpers;
+using PlantSim.Auxiliary.Helpers;
 
-namespace MVVM_Template_Project.Auxiliary.Converters
+namespace PlantSim.Auxiliary.Converters
 {
 	class CommentsConverter : IValueConverter
 	{

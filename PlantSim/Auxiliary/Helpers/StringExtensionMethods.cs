@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Linq;
-using MVVM_Template_Project.Properties;
+using PlantSim.Properties;
 
-namespace MVVM_Template_Project.Auxiliary.Helpers
+namespace PlantSim.Auxiliary.Helpers
 {
 	/// <summary>
 	/// This holds some string extension methods I find useful, and some I've used once, just

@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Windows.Controls;
 using System.Collections.ObjectModel;
 
-namespace MVVM_Template_Project.Auxiliary.Converters
+namespace PlantSim.Auxiliary.Converters
 {
 	/// <summary>
 	/// An example for an error converter.

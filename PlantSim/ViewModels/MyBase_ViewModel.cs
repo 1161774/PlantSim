@@ -1,8 +1,8 @@
 ﻿using System.Runtime.CompilerServices;
 using GalaSoft.MvvmLight;
-using MVVM_Template_Project.Properties;
+using PlantSim.Properties;
 
-namespace MVVM_Template_Project.ViewModels
+namespace PlantSim.ViewModels
 {
 	/// <summary>
 	/// This class contains properties that a View can data bind to.

@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.ObjectModel;
 using System.Windows.Media;
-using MVVM_Template_Project.Models;
+using PlantSim.Models;
 
-namespace MVVM_Template_Project.Design
+namespace PlantSim.Design
 {
     public class DesignDataService : IDataService
     {

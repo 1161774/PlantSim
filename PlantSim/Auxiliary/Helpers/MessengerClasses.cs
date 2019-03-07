@@ -1,7 +1,7 @@
 ﻿using GalaSoft.MvvmLight.Messaging;
-using MVVM_Template_Project.ViewModels;
+using PlantSim.ViewModels;
 
-namespace MVVM_Template_Project.Auxiliary.Helpers
+namespace PlantSim.Auxiliary.Helpers
 {
 	/*
 	 * If you're using the MVVM Messenger, this classes can be helpful in order to send 

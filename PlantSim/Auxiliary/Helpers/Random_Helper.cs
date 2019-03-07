@@ -2,7 +2,7 @@
 using System.Text;
 using System.Windows.Media;
 
-namespace MVVM_Template_Project.Auxiliary.Helpers
+namespace PlantSim.Auxiliary.Helpers
 {
 	/// <summary>
 	/// This class should provide you with plenty of random method to get random things.

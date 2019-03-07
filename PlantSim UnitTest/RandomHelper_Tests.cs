@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using MVVM_Template_Project.Auxiliary.Helpers;
+using PlantSim.Auxiliary.Helpers;
 
 namespace MVVM_Template_UnitTest
 {

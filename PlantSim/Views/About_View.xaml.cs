@@ -1,7 +1,7 @@
 ﻿using System.Windows.Controls;
 using System.Windows.Navigation;
 
-namespace MVVM_Template_Project.Views
+namespace PlantSim.Views
 {
     /// <summary>
     /// Interaction logic for About_View.xaml

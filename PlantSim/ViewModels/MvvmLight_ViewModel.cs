@@ -1,6 +1,6 @@
-﻿using MVVM_Template_Project.Models;
+﻿using PlantSim.Models;
 
-namespace MVVM_Template_Project.ViewModels
+namespace PlantSim.ViewModels
 {
     public class MvvmLight_ViewModel : MyBase_ViewModel
     {

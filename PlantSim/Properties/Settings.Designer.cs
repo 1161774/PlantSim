@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MVVM_Template_Project.Properties
+namespace PlantSim.Properties
 {
 
 

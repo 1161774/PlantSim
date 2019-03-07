@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace MVVM_Template_Project.Auxiliary.Helpers
+namespace PlantSim.Auxiliary.Helpers
 {
 	/// <summary>
 	/// The idea behind this is the assumption that your validation needs to do repetitive things in multiple

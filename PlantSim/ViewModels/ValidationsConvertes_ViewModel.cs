@@ -1,8 +1,8 @@
 ﻿using System.Windows.Input;
 using GalaSoft.MvvmLight.Command;
-using MVVM_Template_Project.Models;
+using PlantSim.Models;
 
-namespace MVVM_Template_Project.ViewModels
+namespace PlantSim.ViewModels
 {
     ///<remarks>
     /// I've sealed this class to prevent the CA2214 warning that will be shown

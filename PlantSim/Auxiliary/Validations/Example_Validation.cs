@@ -2,9 +2,9 @@
 using System.Globalization;
 using System.Text;
 using System.Windows.Controls;
-using MVVM_Template_Project.Auxiliary.Helpers;
+using PlantSim.Auxiliary.Helpers;
 
-namespace MVVM_Template_Project.Auxiliary.Validations
+namespace PlantSim.Auxiliary.Validations
 {
     /// <summary>
     /// Serves as a template example for a validation.

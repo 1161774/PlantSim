@@ -1,7 +1,7 @@
 ﻿using System.Windows;
-using MVVM_Template_Project.ViewModels;
+using PlantSim.ViewModels;
 
-namespace MVVM_Template_Project.Views
+namespace PlantSim.Views
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

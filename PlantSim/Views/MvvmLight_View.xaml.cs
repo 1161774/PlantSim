@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace MVVM_Template_Project.Views
+namespace PlantSim.Views
 {
     /// <summary>
     /// Interaction logic for MvvmLight_View.xaml

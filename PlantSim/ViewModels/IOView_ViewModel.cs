@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using GalaSoft.MvvmLight.Command;
 using GalaSoft.MvvmLight.Messaging;
@@ -16,7 +16,7 @@ namespace PlantSim.ViewModels
     /// You can remove it to see the effects for yourself if you wish :) 
     /// (hint, nothing breaks)
     /// </remarks>>
-	public sealed class Random_ViewModel : MyBase_ViewModel
+	public sealed class IOView_ViewModel : MyBase_ViewModel
 	{
 		private readonly IDataService _dataService;
 
@@ -24,7 +24,7 @@ namespace PlantSim.ViewModels
 		/// <summary>
 		/// Initializes a new instance of the Main_ViewModel class.
 		/// </summary>
-		public Random_ViewModel(IDataService dataService)
+		public IOView_ViewModel(IDataService dataService)
 		{
 			_dataService = dataService;
 			EnumCollection = new ObservableCollection<string>(Enum.GetNames(typeof(Example_Enum)).ToList());

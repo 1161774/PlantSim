@@ -2,9 +2,9 @@
 using GalaSoft.MvvmLight.Command;
 using GalaSoft.MvvmLight.Messaging;
 using Microsoft.Practices.ServiceLocation;
-using MVVM_Template_Project.Auxiliary.Helpers;
+using PlantSim.Auxiliary.Helpers;
 
-namespace MVVM_Template_Project.ViewModels
+namespace PlantSim.ViewModels
 {
     /// <summary>
     /// This class contains properties that the main View can data bind to.

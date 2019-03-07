@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 
-namespace MVVM_Template_Project.Models
+namespace PlantSim.Models
 {
     public interface IDataService
     {
